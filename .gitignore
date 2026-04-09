@@ -1,4 +1,11 @@
-wp-content/uploads/
+# WordPress
 wp-config.php
+wp-content/uploads/
 wp-content/cache/
-*.log
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
